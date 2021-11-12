@@ -1,12 +1,12 @@
 {
-    "name": "watermark-telegram-bot",
+    "name": "Watermark Bot",
     "description": "this bot can add watermark to your photos",
     "keywords": [
         "telegram",
         "watermark",
-        "SDBOTs"
+        "MXBOTs"
     ],
-    "repository": "https://github.com/Sadew451/WaterMark-Bot",
+    "repository": "https://github.com/Team-MasterXBots/WaterMark-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Telegram bot token. From Bot_Father"
